@@ -1,0 +1,70 @@
+body {
+    background-color: #94d0f0; color: #6c4a17
+}
+
+h3 {
+    font-weight: 737; letter-spacing: 3px
+}
+
+
+.lobster-two-regular {
+  font-family: "Lobster Two", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.momo-signature-regular {
+  font-family: "Momo Signature", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.playwrite-pe-guides-regular {
+  font-family: "Playwrite PE Guides", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.zen-tokyo-zoo-regular {
+  font-family: "Zen Tokyo Zoo", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.shojumaru-regular {
+  font-family: "Shojumaru", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.fugaz-one-regular {
+  font-family: "Fugaz One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.sedgwick-ave-display-regular {
+  font-family: "Sedgwick Ave Display", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.fredericka-the-great-regular {
+  font-family: "Fredericka the Great", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p {
+    line-height: 1.5
+}
+
+h3 {
+    font-size: 29px; text-align: center
+}
