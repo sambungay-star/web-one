@@ -1,0 +1,62 @@
+body {
+    background-color: aquamarine;
+}
+
+.big-box {
+    width: 650px;
+    height: 740px;
+    border: 2px solid blue;
+    border-radius: 20px;
+}
+
+
+.outer-box {
+    width: 575px;
+    height: 445px;
+    background-color: coral;
+    border: 5px solid #0013ff;
+    border-radius: 20px;
+    margin: 25px auto
+}
+
+.outside-box {
+    width: 150px;
+    height: 200px;
+    background-color: #117368;
+    border-radius: 11px;
+    margin: 31px 
+}
+
+.inner-box {
+    width: 100px;
+    height: 100px;
+    background-color:darkred;
+    border-radius: 14px;
+    margin: 20px auto
+}
+
+.inner-box1 {
+    width: 150px;
+    height: 200px;
+    background-color: #224a54;
+    border-radius: 14px;
+    margin: 22px;
+}
+
+.inner-box2 {
+    width: 150px;
+    height: 60px;
+    background-color: darkred;
+    border-radius: 10px;
+    margin: auto;
+}
+
+
+
+
+
+
+
+
+
+
